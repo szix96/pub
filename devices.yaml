@@ -1,0 +1,25 @@
+devices:
+  - device_type: cisco_ios
+    host: 10.230.230.18
+    username: manager
+    hostname: R8_PRD
+  - device_type: cisco_ios
+    host: 10.230.230.17
+    username: manager
+    hostname: R7_internet
+  - device_type: cisco_ios
+    host: 10.230.230.1
+    username: manager
+    hostname: R3_MGMT-inet
+  - device_type: cisco_ios
+    host: 10.230.230.12
+    username: manager
+    hostname: R2-PRD
+  - device_type: cisco_ios
+    host: 10.230.230.11
+    username: manager
+    hostname: R1-PRD
+  - device_type: cisco_ios
+    host: 10.230.230.61
+    username: manager
+    hostname: R10-PRD
