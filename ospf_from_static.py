@@ -89,7 +89,6 @@ routers = [
             "no shutdown",
             "interface Ethernet0/2",
             "description Link to Internet",
-            "mac-address aabb.cc00.1621",
             "ip address dhcp",
             "ip nat outside",
             "ip virtual-reassembly in",
