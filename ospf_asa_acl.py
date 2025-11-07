@@ -146,6 +146,7 @@ devices = [
                                                                                             #no shutdown
                                                                                             #
                                                                                             #username manager password test123 privilege 15
+                                                                                            #enable password test123
                                                                                             #
                                                                                             #domain-name my.local-domain
                                                                                             #crypto key generate rsa modulus 2048
